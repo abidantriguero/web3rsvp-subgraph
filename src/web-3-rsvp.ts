@@ -1,6 +1,5 @@
 import { Address, ipfs, json } from "@graphprotocol/graph-ts";
 import {
-  Web3RSVP,
   ConfirmedAttendee,
   NewEventCreated,
   NewRSVP,
